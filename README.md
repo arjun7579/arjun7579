@@ -1,9 +1,24 @@
-<!-- Streetlight toggle (simulated) -->
+<!-- Dark Mode Streetlight (default) -->
 <p align="center">
-  <a href="#dark">
-    <img src="https://raw.githubusercontent.com/arjun7579/arjun7579/main/assets/streetlight-on.png" width="100" alt="Click to toggle theme"/>
+  <a href="#light-mode">
+    <img src="https://raw.githubusercontent.com/arjun7579/arjun7579/main/assets/streetlight-on.png" width="100" alt="Switch to Light Theme"/>
   </a>
 </p>
+
+<!-- Optional dark content here -->
+
+---
+
+## 🌤️ Light Mode Section
+<p align="center">
+  <a href="#dark-mode">
+    <img src="https://raw.githubusercontent.com/arjun7579/arjun7579/main/assets/streetlight-off.png" width="100" alt="Switch to Dark Theme"/>
+  </a>
+</p>
+
+<!-- Optional light content here -->
+
+---
 
 <h1 align="center">Hi there, I'm Arjun 👋</h1>
 <p align="center">
