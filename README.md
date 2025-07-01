@@ -9,11 +9,10 @@
 
 ### 🧠 About Me
 
-- 🔒 Building secure backend systems with FastAPI, PostgreSQL, JWT
 - 🛠️ Love working on APIs, system tools, and automation
 - 🧪 Writing tests, breaking things, and fixing them better
 - ☁️ Exploring cloud, serverless, and modern DevOps
-
+- 🤖 Love giving inteligence to Machines
 ---
 
 ### 🛠️ Tech Stack
