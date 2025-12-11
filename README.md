@@ -30,7 +30,3 @@ Tools: Git, Docker, PostgreSQL, GitHub Actions, Wireshark
 
 
 ---
-
-<p align="center">
-  <em>"With clean code comes great maintainability."</em>
-</p>
